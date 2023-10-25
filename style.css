@@ -1,3 +1,7 @@
 input[type="password"]{
     color: magenta;
 }
+
+p:hover {
+    background-color: lightgray;
+}
